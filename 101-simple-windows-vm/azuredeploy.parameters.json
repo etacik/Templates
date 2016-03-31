@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "ejtazrhol303"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "P@ssw0rd!!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "ejtazrhol303"
+    },
+    "location": {
+      "value": "East US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
